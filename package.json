@@ -1,0 +1,23 @@
+{
+  "name": "jestunittesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cloneArray.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snsolomar/jestUnitTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snsolomar/jestUnitTesting/issues"
+  },
+  "homepage": "https://github.com/snsolomar/jestUnitTesting#readme",
+  "devDependencies": {
+    "jest": "^29.6.0"
+  }
+}
